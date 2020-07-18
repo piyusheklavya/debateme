@@ -1,1 +1,1 @@
-'Sri Ganesh'
+alert('Sri Ganesh')
