@@ -1,0 +1,30 @@
+.container {
+    margin:13% 39%;    padding: 2% 0%;
+
+    background-color: rgb(113, 92, 250);
+    border: 1px solid rgb(216, 216, 216); border-radius: 4%;
+}
+
+.wrapper {
+    display: grid;
+    
+}
+
+.introText {
+    border: 0px solid red;;
+    margin: 5% 0%; padding: 0% 7%;
+
+    font-size: 25px; font-family: Calibri; text-align: justify; 
+    color: white; font-weight: 200;
+
+}
+
+.LoginByTEXT {
+    font-weight: bold; text-align: center; color: white;
+}
+
+.googleBTN {
+    padding: 2% 4%; border-radius: 10%;     border: none;
+    
+    background-color: blue; color: white; font-weight: bold;
+}
